@@ -1,1 +1,1 @@
-# WinProg2
+# GE
